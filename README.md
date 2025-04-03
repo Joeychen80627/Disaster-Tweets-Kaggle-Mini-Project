@@ -8,7 +8,7 @@ This project tackles Kaggle's [Natural Language Processing with Disaster Tweets]
 ## Key Results
 | Model Architecture | Public Score | Improvement |
 |--------------------|-------------|------------|
-| Word2Vec+BiLSTM | **0.85340** | +8.99% |
+| Word2Vec+BiLSTM | 0.78884 | +0.00582% |
 | Raw Text Baseline | 0.79344 | +1.33% |
 | Advanced Text Cleaning | 0.79190 | +1.13% |
 | Basic Text Cleaning | 0.78302 | - |
